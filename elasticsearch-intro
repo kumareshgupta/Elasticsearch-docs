@@ -1,0 +1,12 @@
+An Apache Lucene-based search server. 
+It was developed by Shay Banon and published in 2010. 
+Now maintained by Elasticsearch BV. 
+Its latest version is 7.3.2 as on 24-09-2019 (Release date 12 Sep 2019)
+
+It is a real-time distributed and open source full-text search and analytics engine. 
+It is used in SPA - Single Page Application projects
+It is accessible from RESTful web service interface and uses schema less JSON (JavaScript Object Notation) documents to store data. 
+It is developed in Java and hence it can run on different platforms. 
+It enables users to explore very large amount of data at very high speed.
+
+It is scalable up to petabytes of structured and unstructured data. (1 petabyte = 1000000 GB)
